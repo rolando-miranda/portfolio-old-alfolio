@@ -79,15 +79,8 @@ news_limit: 8
 # -----------------------------------------------------------------------------
 
 plugins:
-  - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-imagemagick
-  - jekyll-link-attributes
-  - jekyll-paginate-v2
-  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
